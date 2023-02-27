@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# (Regular Expression)
 
-Introductory paragraph (replace this with your text)
+JavaScript has many useful methods that can check if a string contains a certain letter or phrase
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regular expressions, or regex for short, are a series of special characters that define a search pattern.
 
 ## Table of Contents
 
